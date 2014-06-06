@@ -1,0 +1,25 @@
+{
+  "name": "SoundJSCocoonJSPlugin",
+  "version": "0.5.2",
+  "homepage": "https://github.com/alexpusch/SoundJSCocoonJSPlugin",
+  "authors": [
+    "alexpusch <alex.puschinsky@gmail.com>"
+  ],
+  "description": "CocoonJS plugin for SoundJS",
+  "main": "cocoonjsplugin.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "soundjs",
+    "cocoonjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
